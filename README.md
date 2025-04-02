@@ -29,9 +29,15 @@ https://grad.msu.edu/etd
 
 # How to use
 
-## Importing references
+Download the files in this repo and upload them into an overleaf project
 
-Click on the new file icon in the top left corner under the Menu button > import from zotero
+## Importing your own references
+
+Click on the new file icon in the top left corner under the Menu button > import from zotero/mendeley/papers
+
+Otherwise, you can export your references as a .bib file and upload to overleaf.
+
+To cite:
 
 * `\citep{}` for parentetical citations
 * `\citet{}` for in-text citations
